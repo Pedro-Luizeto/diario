@@ -1,0 +1,1 @@
+Hoje estou treinando o acesso e escrita de arquivos com python
